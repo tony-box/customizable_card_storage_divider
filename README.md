@@ -6,7 +6,7 @@ Changelog by fellowapeman https://www.printables.com/social/221869-fellowapeman/
 
 * cleanup
 * extra params added
-* modified o use 90deg tabs
+* modified to use 90deg tabs
 * modified to use hex grid to save material (and look cool!)
 * additional help text
   
