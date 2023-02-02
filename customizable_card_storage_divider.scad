@@ -130,7 +130,7 @@ module grid(size,cell_hole,cell_wall) {
 ////////////////////////////////////////////////////////////////////
 module mask(size) {
   difference() {
-    cuboid(size=2*size);
+    cuboid(size=3*size);
     cuboid(size=size);
   }
 }
