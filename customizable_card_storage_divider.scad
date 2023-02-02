@@ -48,7 +48,7 @@ tabPositions = "both"; // [left,right,both,none]
 
 /* [Left Tab Config] */
 tabWidthL = 23;
-tabHeightL = 8;
+tabHeightL = 9;
 // Left tab's text. If using "mana" or "keyrune" fonts, copy/paste the icon from the appropriate andrewgioia cheatsheet
 textL = "MIR";
 // Left tab's font
@@ -64,7 +64,7 @@ tabPaddingTopL = 2;
 // Right tab's width
 tabWidthR = 12;
 // Right tab's height
-tabHeightR = 8;
+tabHeightR = 9;
 // Right tab's text. If using "mana" or "keyrune" fonts, copy/paste the icon from the appropriate andrewgioia cheatsheet
 textR = "";
 // Right tab's font
@@ -74,7 +74,7 @@ fontSizeR = 6;
 // Right tab's text padding-left
 tabPaddingLeftR = 2;
 // Right tab's text padding-bottom
-tabPaddingTopR = 3.2;
+tabPaddingTopR = 3.1;
 
 ////////////////////////////////////////////////////////////////////
 // cell: takes three parameters and returns a single hexagonal cell
